@@ -31,7 +31,7 @@ This project is a clone of the popular Disney+ streaming platform, developed usi
 
 [Link to Live Demo](https://disney-plus-hamilton.netlify.app/)
 
-![Demo Screenshot](/public/images/home-icon.svg)
+![Demo Screenshot](/public/images/preview.png)
 
 ## Getting Started
 
