@@ -28,8 +28,7 @@ const Header = (props) => {
 
   const handleAuth = () => {
     if (!userName) {
-      auth
-        .signInWithPopup(provider)
+      signInWithPopup(auth, provider)
         .then((result) => {
           setUser(result.user);
         })
