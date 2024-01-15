@@ -1,9 +1,6 @@
-Certainly, here's a sample `README.md` content for your Disney+ clone web app built using React:
-
-````markdown
 # Disney+ Clone Web App
 
-![Preview](./public/images/preview.png)
+![Preview](/public/images/preview.png)
 
 ## Table of Contents
 
@@ -34,7 +31,7 @@ This project is a clone of the popular Disney+ streaming platform, developed usi
 
 [Link to Live Demo](https://disney-plus-hamilton.netlify.app/)
 
-![Demo Screenshot](/public/images/preview.png)
+![Demo Screenshot](/public/images/home-icon.svg)
 
 ## Getting Started
 
@@ -48,6 +45,7 @@ This project is a clone of the popular Disney+ streaming platform, developed usi
    ```bash
    git clone https://github.com/ConfordH/disney-plus-clone.git
    ```
+
 ````
 
 2. Navigate to the project directory:
@@ -97,3 +95,4 @@ For inquiries, reach out to:
 ```
 
 ```
+````
